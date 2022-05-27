@@ -1,4 +1,4 @@
-# Source Code Pro
+# Adobe Source Code Pro
 
 Pre-configured `master.css` file to load fonts.
 
@@ -6,6 +6,6 @@ Pre-configured `master.css` file to load fonts.
 
 Just `@import` the `master.css` file in `source` folder.
 
-## Google Fonts
+## Adobe
 
-[https://fonts.google.com/specimen/Source+Code+Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+[https://fonts.adobe.com/fonts/source-code-pro](https://fonts.adobe.com/fonts/source-code-pro)
